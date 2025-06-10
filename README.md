@@ -5,31 +5,31 @@
 
 克隆仓库
 ```bash
-    git clone https://github.com/Mzkless/Lrys_faucet_bot.git
-    cd Lrys_faucet_bot
+git clone https://github.com/Mzkless/Lrys_faucet_bot.git
+cd Lrys_faucet_bot
 ```
 
 安装依赖
 ```bash
-    npm install
+npm install
 ```
 
 代理🛠proxies.txt格式：
 ```bash
-    http://用户名:密码@ip:端口
-    http://用户名:密码@ip:端口
+http://用户名:密码@ip:端口
+http://用户名:密码@ip:端口
 ```
 钱包wallet.txt 格式：
 ```bash
-    0x........
-    0x........
+0x........
+0x........
 ```
 
 需要打码的API 推荐：https://dashboard.capsolver.com/passport/register?inviteCode=22mCq5CbxFDS 最低10美金 支持支付宝
 
 运行
 ```bash
-    node faucet.js
+node faucet.js
 ```
 
 
