@@ -3,7 +3,14 @@ Lrys自动领水
 
 脚本不涉及任何私钥！！！
 
-git clone 
+
+    git clone https://github.com/Mzkless/Lrys_faucet_bot.git
+    cd Lrys_faucet_bot
+
+=================
+
+    npm install
+    node faucet.js
 
 需要打码的API 推荐：https://dashboard.capsolver.com/passport/register?inviteCode=22mCq5CbxFDS 最低10美金 支持支付宝
 
